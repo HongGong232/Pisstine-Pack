@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wiidisc version="1">
+  <id game="RMCP" disc="0" version="0" />
+  <options>
+    <section name="Pisstine Dev Release">
+      <option id="Pisstine Dev Release-tracks" name="Custom Tracks + Arenas" default="1">
+        <choice name="Enabled">
+          <patch id="Pisstine Dev Release_tracks" />
+        </choice>
+      </option>
+    </section>
+  </options>
+  <patch id="Pisstine Dev Release_tracks">
+    <file disc="/Race/Course/000.szs" external="/PisstineDevRelease/Race/Course/000.szs" create="true" />
+    <file disc="/Race/Course/000_d.szs" external="/PisstineDevRelease/Race/Course/000_d.szs" create="true" />
+    <file disc="/Race/Course/001.szs" external="/PisstineDevRelease/Race/Course/001.szs" create="true" />
+    <file disc="/Race/Course/001_d.szs" external="/PisstineDevRelease/Race/Course/001_d.szs" create="true" />
+    <file disc="/Race/Course/002.szs" external="/PisstineDevRelease/Race/Course/002.szs" create="true" />
+    <file disc="/Race/Course/002_d.szs" external="/PisstineDevRelease/Race/Course/002_d.szs" create="true" />
+    <file disc="/Race/Course/003.szs" external="/PisstineDevRelease/Race/Course/003.szs" create="true" />
+    <file disc="/Race/Course/003_d.szs" external="/PisstineDevRelease/Race/Course/003_d.szs" create="true" />
+    <file disc="/Race/Course/004.szs" external="/PisstineDevRelease/Race/Course/004.szs" create="true" />
+    <file disc="/Race/Course/004_d.szs" external="/PisstineDevRelease/Race/Course/004_d.szs" create="true" />
+    <file disc="/Race/Course/005.szs" external="/PisstineDevRelease/Race/Course/005.szs" create="true" />
+    <file disc="/Race/Course/005_d.szs" external="/PisstineDevRelease/Race/Course/005_d.szs" create="true" />
+    <file disc="/Race/Course/006.szs" external="/PisstineDevRelease/Race/Course/006.szs" create="true" />
+    <file disc="/Race/Course/006_d.szs" external="/PisstineDevRelease/Race/Course/006_d.szs" create="true" />
+    <file disc="/Race/Course/007.szs" external="/PisstineDevRelease/Race/Course/007.szs" create="true" />
+    <file disc="/Race/Course/007_d.szs" external="/PisstineDevRelease/Race/Course/007_d.szs" create="true" />
+    <file disc="/Race/Course/008.szs" external="/PisstineDevRelease/Race/Course/008.szs" create="true" />
+    <file disc="/Race/Course/008_d.szs" external="/PisstineDevRelease/Race/Course/008_d.szs" create="true" />
+    <file disc="/Race/Course/009.szs" external="/PisstineDevRelease/Race/Course/009.szs" create="true" />
+    <file disc="/Race/Course/009_d.szs" external="/PisstineDevRelease/Race/Course/009_d.szs" create="true" />
+    <file disc="/Race/Course/00a.szs" external="/PisstineDevRelease/Race/Course/00a.szs" create="true" />
+    <file disc="/Race/Course/00a_d.szs" external="/PisstineDevRelease/Race/Course/00a_d.szs" create="true" />
+    <file disc="/Race/Course/00b.szs" external="/PisstineDevRelease/Race/Course/00b.szs" create="true" />
+    <file disc="/Race/Course/00b_d.szs" external="/PisstineDevRelease/Race/Course/00b_d.szs" create="true" />
+    <file disc="/Race/Course/00c.szs" external="/PisstineDevRelease/Race/Course/00c.szs" create="true" />
+    <file disc="/Race/Course/00c_d.szs" external="/PisstineDevRelease/Race/Course/00c_d.szs" create="true" />
+    <file disc="/Race/Course/00d.szs" external="/PisstineDevRelease/Race/Course/00d.szs" create="true" />
+    <file disc="/Race/Course/00d_d.szs" external="/PisstineDevRelease/Race/Course/00d_d.szs" create="true" />
+    <file disc="/Race/Course/00e.szs" external="/PisstineDevRelease/Race/Course/00e.szs" create="true" />
+    <file disc="/Race/Course/00e_d.szs" external="/PisstineDevRelease/Race/Course/00e_d.szs" create="true" />
+    <file disc="/Race/Course/00f.szs" external="/PisstineDevRelease/Race/Course/00f.szs" create="true" />
+    <file disc="/Race/Course/00f_d.szs" external="/PisstineDevRelease/Race/Course/00f_d.szs" create="true" />
+    <file disc="/Race/Course/010.szs" external="/PisstineDevRelease/Race/Course/010.szs" create="true" />
+    <file disc="/Race/Course/010_d.szs" external="/PisstineDevRelease/Race/Course/010_d.szs" create="true" />
+    <file disc="/Race/Course/011.szs" external="/PisstineDevRelease/Race/Course/011.szs" create="true" />
+    <file disc="/Race/Course/011_d.szs" external="/PisstineDevRelease/Race/Course/011_d.szs" create="true" />
+    <file disc="/Race/Course/012.szs" external="/PisstineDevRelease/Race/Course/012.szs" create="true" />
+    <file disc="/Race/Course/012_d.szs" external="/PisstineDevRelease/Race/Course/012_d.szs" create="true" />
+    <file disc="/Race/Course/013.szs" external="/PisstineDevRelease/Race/Course/013.szs" create="true" />
+    <file disc="/Race/Course/013_d.szs" external="/PisstineDevRelease/Race/Course/013_d.szs" create="true" />
+    <file disc="/Race/Course/014.szs" external="/PisstineDevRelease/Race/Course/014.szs" create="true" />
+    <file disc="/Race/Course/014_d.szs" external="/PisstineDevRelease/Race/Course/014_d.szs" create="true" />
+    <file disc="/Race/Course/015.szs" external="/PisstineDevRelease/Race/Course/015.szs" create="true" />
+    <file disc="/Race/Course/015_d.szs" external="/PisstineDevRelease/Race/Course/015_d.szs" create="true" />
+    <file disc="/Race/Course/016.szs" external="/PisstineDevRelease/Race/Course/016.szs" create="true" />
+    <file disc="/Race/Course/016_d.szs" external="/PisstineDevRelease/Race/Course/016_d.szs" create="true" />
+    <file disc="/Race/Course/017.szs" external="/PisstineDevRelease/Race/Course/017.szs" create="true" />
+    <file disc="/Race/Course/017_d.szs" external="/PisstineDevRelease/Race/Course/017_d.szs" create="true" />
+    <file disc="/Race/Course/018.szs" external="/PisstineDevRelease/Race/Course/018.szs" create="true" />
+    <file disc="/Race/Course/018_d.szs" external="/PisstineDevRelease/Race/Course/018_d.szs" create="true" />
+    <file disc="/Race/Course/019.szs" external="/PisstineDevRelease/Race/Course/019.szs" create="true" />
+    <file disc="/Race/Course/019_d.szs" external="/PisstineDevRelease/Race/Course/019_d.szs" create="true" />
+    <file disc="/Race/Course/01a.szs" external="/PisstineDevRelease/Race/Course/01a.szs" create="true" />
+    <file disc="/Race/Course/01a_d.szs" external="/PisstineDevRelease/Race/Course/01a_d.szs" create="true" />
+    <file disc="/Race/Course/01b.szs" external="/PisstineDevRelease/Race/Course/01b.szs" create="true" />
+    <file disc="/Race/Course/01b_d.szs" external="/PisstineDevRelease/Race/Course/01b_d.szs" create="true" />
+    <file disc="/Race/Course/01c.szs" external="/PisstineDevRelease/Race/Course/01c.szs" create="true" />
+    <file disc="/Race/Course/01c_d.szs" external="/PisstineDevRelease/Race/Course/01c_d.szs" create="true" />
+    <file disc="/Race/Course/01d.szs" external="/PisstineDevRelease/Race/Course/01d.szs" create="true" />
+    <file disc="/Race/Course/01d_d.szs" external="/PisstineDevRelease/Race/Course/01d_d.szs" create="true" />
+    <file disc="/Race/Course/01e.szs" external="/PisstineDevRelease/Race/Course/01e.szs" create="true" />
+    <file disc="/Race/Course/01e_d.szs" external="/PisstineDevRelease/Race/Course/01e_d.szs" create="true" />
+    <file disc="/Race/Course/01f.szs" external="/PisstineDevRelease/Race/Course/01f.szs" create="true" />
+    <file disc="/Race/Course/01f_d.szs" external="/PisstineDevRelease/Race/Course/01f_d.szs" create="true" />
+    <file disc="/Race/Course/044.szs" external="/PisstineDevRelease/Race/Course/044.szs" create="true" />
+    <file disc="/Race/Course/045.szs" external="/PisstineDevRelease/Race/Course/045.szs" create="true" />
+    <file disc="/Race/Course/046.szs" external="/PisstineDevRelease/Race/Course/046.szs" create="true" />
+    <file disc="/Race/Course/047.szs" external="/PisstineDevRelease/Race/Course/047.szs" create="true" />
+    <file disc="/Race/Course/048.szs" external="/PisstineDevRelease/Race/Course/048.szs" create="true" />
+    <file disc="/Race/Course/049.szs" external="/PisstineDevRelease/Race/Course/049.szs" create="true" />
+    <file disc="/Race/Course/04a.szs" external="/PisstineDevRelease/Race/Course/04a.szs" create="true" />
+    <file disc="/Race/Course/04b.szs" external="/PisstineDevRelease/Race/Course/04b.szs" create="true" />
+    <file disc="/Race/Course/04c.szs" external="/PisstineDevRelease/Race/Course/04c.szs" create="true" />
+    <file disc="/Race/Course/04d.szs" external="/PisstineDevRelease/Race/Course/04d.szs" create="true" />
+    <file disc="/Race/Course/04e.szs" external="/PisstineDevRelease/Race/Course/04e.szs" create="true" />
+    <file disc="/Race/Course/04f.szs" external="/PisstineDevRelease/Race/Course/04f.szs" create="true" />
+    <file disc="/Race/Course/050.szs" external="/PisstineDevRelease/Race/Course/050.szs" create="true" />
+    <file disc="/Race/Course/051.szs" external="/PisstineDevRelease/Race/Course/051.szs" create="true" />
+    <file disc="/Race/Course/052.szs" external="/PisstineDevRelease/Race/Course/052.szs" create="true" />
+    <file disc="/Race/Course/053.szs" external="/PisstineDevRelease/Race/Course/053.szs" create="true" />
+    <file disc="/Scene/UI/Award_E.szs" external="/PisstineDevRelease/Scene/UI/Award_E.szs" create="true" />
+    <file disc="/Scene/UI/Award_F.szs" external="/PisstineDevRelease/Scene/UI/Award_F.szs" create="true" />
+    <file disc="/Scene/UI/Award_G.szs" external="/PisstineDevRelease/Scene/UI/Award_G.szs" create="true" />
+    <file disc="/Scene/UI/Award_I.szs" external="/PisstineDevRelease/Scene/UI/Award_I.szs" create="true" />
+    <file disc="/Scene/UI/Award_S.szs" external="/PisstineDevRelease/Scene/UI/Award_S.szs" create="true" />
+    <file disc="/Scene/UI/Channel.szs" external="/PisstineDevRelease/Scene/UI/Channel.szs" create="true" />
+    <file disc="/Scene/UI/Channel_E.szs" external="/PisstineDevRelease/Scene/UI/Channel_E.szs" create="true" />
+    <file disc="/Scene/UI/Channel_F.szs" external="/PisstineDevRelease/Scene/UI/Channel_F.szs" create="true" />
+    <file disc="/Scene/UI/Channel_G.szs" external="/PisstineDevRelease/Scene/UI/Channel_G.szs" create="true" />
+    <file disc="/Scene/UI/Channel_I.szs" external="/PisstineDevRelease/Scene/UI/Channel_I.szs" create="true" />
+    <file disc="/Scene/UI/Channel_S.szs" external="/PisstineDevRelease/Scene/UI/Channel_S.szs" create="true" />
+    <file disc="/Scene/UI/Event.szs" external="/PisstineDevRelease/Scene/UI/Event.szs" create="true" />
+    <file disc="/Scene/UI/Event_E.szs" external="/PisstineDevRelease/Scene/UI/Event_E.szs" create="true" />
+    <file disc="/Scene/UI/Event_F.szs" external="/PisstineDevRelease/Scene/UI/Event_F.szs" create="true" />
+    <file disc="/Scene/UI/Event_G.szs" external="/PisstineDevRelease/Scene/UI/Event_G.szs" create="true" />
+    <file disc="/Scene/UI/Event_I.szs" external="/PisstineDevRelease/Scene/UI/Event_I.szs" create="true" />
+    <file disc="/Scene/UI/Event_S.szs" external="/PisstineDevRelease/Scene/UI/Event_S.szs" create="true" />
+    <file disc="/Scene/UI/Globe.szs" external="/PisstineDevRelease/Scene/UI/Globe.szs" create="true" />
+    <file disc="/Scene/UI/Globe_E.szs" external="/PisstineDevRelease/Scene/UI/Globe_E.szs" create="true" />
+    <file disc="/Scene/UI/Globe_F.szs" external="/PisstineDevRelease/Scene/UI/Globe_F.szs" create="true" />
+    <file disc="/Scene/UI/Globe_G.szs" external="/PisstineDevRelease/Scene/UI/Globe_G.szs" create="true" />
+    <file disc="/Scene/UI/Globe_I.szs" external="/PisstineDevRelease/Scene/UI/Globe_I.szs" create="true" />
+    <file disc="/Scene/UI/Globe_S.szs" external="/PisstineDevRelease/Scene/UI/Globe_S.szs" create="true" />
+    <file disc="/Scene/UI/MenuMulti.szs" external="/PisstineDevRelease/Scene/UI/MenuMulti.szs" create="true" />
+    <file disc="/Scene/UI/MenuMulti_E.szs" external="/PisstineDevRelease/Scene/UI/MenuMulti_E.szs" create="true" />
+    <file disc="/Scene/UI/MenuMulti_F.szs" external="/PisstineDevRelease/Scene/UI/MenuMulti_F.szs" create="true" />
+    <file disc="/Scene/UI/MenuMulti_G.szs" external="/PisstineDevRelease/Scene/UI/MenuMulti_G.szs" create="true" />
+    <file disc="/Scene/UI/MenuMulti_I.szs" external="/PisstineDevRelease/Scene/UI/MenuMulti_I.szs" create="true" />
+    <file disc="/Scene/UI/MenuMulti_S.szs" external="/PisstineDevRelease/Scene/UI/MenuMulti_S.szs" create="true" />
+    <file disc="/Scene/UI/MenuOther.szs" external="/PisstineDevRelease/Scene/UI/MenuOther.szs" create="true" />
+    <file disc="/Scene/UI/MenuOther_E.szs" external="/PisstineDevRelease/Scene/UI/MenuOther_E.szs" create="true" />
+    <file disc="/Scene/UI/MenuOther_F.szs" external="/PisstineDevRelease/Scene/UI/MenuOther_F.szs" create="true" />
+    <file disc="/Scene/UI/MenuOther_G.szs" external="/PisstineDevRelease/Scene/UI/MenuOther_G.szs" create="true" />
+    <file disc="/Scene/UI/MenuOther_I.szs" external="/PisstineDevRelease/Scene/UI/MenuOther_I.szs" create="true" />
+    <file disc="/Scene/UI/MenuOther_S.szs" external="/PisstineDevRelease/Scene/UI/MenuOther_S.szs" create="true" />
+    <file disc="/Scene/UI/MenuSingle.szs" external="/PisstineDevRelease/Scene/UI/MenuSingle.szs" create="true" />
+    <file disc="/Scene/UI/MenuSingle_E.szs" external="/PisstineDevRelease/Scene/UI/MenuSingle_E.szs" create="true" />
+    <file disc="/Scene/UI/MenuSingle_F.szs" external="/PisstineDevRelease/Scene/UI/MenuSingle_F.szs" create="true" />
+    <file disc="/Scene/UI/MenuSingle_G.szs" external="/PisstineDevRelease/Scene/UI/MenuSingle_G.szs" create="true" />
+    <file disc="/Scene/UI/MenuSingle_I.szs" external="/PisstineDevRelease/Scene/UI/MenuSingle_I.szs" create="true" />
+    <file disc="/Scene/UI/MenuSingle_S.szs" external="/PisstineDevRelease/Scene/UI/MenuSingle_S.szs" create="true" />
+    <file disc="/Scene/UI/Present.szs" external="/PisstineDevRelease/Scene/UI/Present.szs" create="true" />
+    <file disc="/Scene/UI/Present_E.szs" external="/PisstineDevRelease/Scene/UI/Present_E.szs" create="true" />
+    <file disc="/Scene/UI/Present_F.szs" external="/PisstineDevRelease/Scene/UI/Present_F.szs" create="true" />
+    <file disc="/Scene/UI/Present_G.szs" external="/PisstineDevRelease/Scene/UI/Present_G.szs" create="true" />
+    <file disc="/Scene/UI/Present_I.szs" external="/PisstineDevRelease/Scene/UI/Present_I.szs" create="true" />
+    <file disc="/Scene/UI/Present_S.szs" external="/PisstineDevRelease/Scene/UI/Present_S.szs" create="true" />
+    <file disc="/Scene/UI/Race.szs" external="/PisstineDevRelease/Scene/UI/Race.szs" create="true" />
+    <file disc="/Scene/UI/Race_E.szs" external="/PisstineDevRelease/Scene/UI/Race_E.szs" create="true" />
+    <file disc="/Scene/UI/Race_F.szs" external="/PisstineDevRelease/Scene/UI/Race_F.szs" create="true" />
+    <file disc="/Scene/UI/Race_G.szs" external="/PisstineDevRelease/Scene/UI/Race_G.szs" create="true" />
+    <file disc="/Scene/UI/Race_I.szs" external="/PisstineDevRelease/Scene/UI/Race_I.szs" create="true" />
+    <file disc="/Scene/UI/Race_S.szs" external="/PisstineDevRelease/Scene/UI/Race_S.szs" create="true" />
+    <file disc="/Scene/UI/Title.szs" external="/PisstineDevRelease/Scene/UI/Title.szs" create="true" />
+    <file disc="/Scene/UI/Title_E.szs" external="/PisstineDevRelease/Scene/UI/Title_E.szs" create="true" />
+    <file disc="/Scene/UI/Title_F.szs" external="/PisstineDevRelease/Scene/UI/Title_F.szs" create="true" />
+    <file disc="/Scene/UI/Title_G.szs" external="/PisstineDevRelease/Scene/UI/Title_G.szs" create="true" />
+    <file disc="/Scene/UI/Title_I.szs" external="/PisstineDevRelease/Scene/UI/Title_I.szs" create="true" />
+    <file disc="/Scene/UI/Title_S.szs" external="/PisstineDevRelease/Scene/UI/Title_S.szs" create="true" />
+    <file disc="/rel/StaticR.rel" external="/PisstineDevRelease/rel/StaticR.rel" create="true" />
+    <file disc="/rel/lecode-PAL.bin" external="/PisstineDevRelease/rel/lecode-PAL.bin" create="true" />
+    <folder external="/PisstineDevRelease/sys" recursive="false" />
+    <folder external="/PisstineDevRelease/sys" disc="/" />
+  </patch>
+</wiidisc>
